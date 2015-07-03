@@ -1,0 +1,4 @@
+The "mv" command stands for "move" and does just what you would think, it moves a file from one location to another.
+The "mv" command takes two parameters, the first is the file name that you would like to move and its location and 
+the second is where it will be moved to. The "mv" command can also rename files if you do not provide a destination
+for it to be moved to. 
