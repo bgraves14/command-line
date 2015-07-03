@@ -1,0 +1,1 @@
+The "grep" command is much like a search command. It will find specific words, letters or even better put "patterns" in the place you would like it to search and output the appropriate information back to you in the command-line. grep takes two parameters, the first is what you would like it to search for and the second is where you would like it to search.
